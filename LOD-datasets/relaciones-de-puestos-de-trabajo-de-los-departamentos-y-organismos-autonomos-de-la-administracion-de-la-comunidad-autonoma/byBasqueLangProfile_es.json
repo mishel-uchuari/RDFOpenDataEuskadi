@@ -1,0 +1,5372 @@
+{
+	"children": [{
+		"totals": [{
+			"name": "PL1",
+			"total": 12
+		},
+		{
+			"name": "PL2",
+			"total": 51
+		},
+		{
+			"name": "PL3",
+			"total": 49
+		},
+		{
+			"name": "PL4",
+			"total": 4
+		},
+		{
+			"name": "PL5",
+			"total": 2
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL1",
+				"total": 5
+			},
+			{
+				"name": "PL2",
+				"total": 7
+			},
+			{
+				"name": "PL3",
+				"total": 11
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Eventual",
+					"total": 7
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 7
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Eventual",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 11
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "LEHENDAKARITZA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 3
+			},
+			{
+				"name": "PL3",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE COMUNICACION",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE SECRET. Y RELAC. INSTIT.",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 4
+			},
+			{
+				"name": "PL3",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 4
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 4
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE GABINETE DE ESTUDIOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 2
+			},
+			{
+				"name": "PL3",
+				"total": 1
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE RÉGIMEN JURÍDICO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE COORDINACION",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 6
+			},
+			{
+				"name": "PL2",
+				"total": 14
+			},
+			{
+				"name": "PL3",
+				"total": 6
+			},
+			{
+				"name": "PL5",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 12
+				},
+				{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 12
+				},
+				{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE SERVICIOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			},
+			{
+				"name": "PL2",
+				"total": 4
+			},
+			{
+				"name": "PL3",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DIR.DE GOBIERNO ABIERTO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 10
+			},
+			{
+				"name": "PL3",
+				"total": 17
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 17
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 17
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "SECRETARIA GENERAL DE ACCION EXTERIOR",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL3",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE RELACIONES EXTERIORES",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 5
+			},
+			{
+				"name": "PL3",
+				"total": 4
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 4
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 4
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "SEC. GRAL. PARA LA PAZ Y LA CONVIVENCIA",
+			"type": "division"
+		}],
+		"name": "LEHENDAKARITZA",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 60
+		},
+		{
+			"name": "PL2",
+			"total": 213
+		},
+		{
+			"name": "PL3",
+			"total": 234
+		},
+		{
+			"name": "PL4",
+			"total": 107
+		},
+		{
+			"name": "PL5",
+			"total": 25
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "CONSEJERIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 4
+			},
+			{
+				"name": "PL2",
+				"total": 10
+			},
+			{
+				"name": "PL3",
+				"total": 13
+			},
+			{
+				"name": "PL4",
+				"total": 3
+			},
+			{
+				"name": "PL5",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 13
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 13
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE SERVICIOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "GABINETE",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 17
+			},
+			{
+				"name": "PL3",
+				"total": 14
+			},
+			{
+				"name": "PL4",
+				"total": 11
+			},
+			{
+				"name": "PL5",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 17
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 17
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 14
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 14
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "VICE. DE RELACIONES INSTITUCIONALES",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 9
+			},
+			{
+				"name": "PL3",
+				"total": 6
+			},
+			{
+				"name": "PL4",
+				"total": 30
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 9
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 9
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 30
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 30
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERÍA DE RÉGIMEN JURÍDICO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 127
+			},
+			{
+				"name": "PL3",
+				"total": 34
+			},
+			{
+				"name": "PL4",
+				"total": 36
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 127
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 127
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 34
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 34
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 36
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 36
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERÍA DE FUNCIÓN PÚBLICA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 8
+			},
+			{
+				"name": "PL2",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE RELACIONES LABORALES",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 3
+			},
+			{
+				"name": "PL2",
+				"total": 34
+			},
+			{
+				"name": "PL3",
+				"total": 52
+			},
+			{
+				"name": "PL4",
+				"total": 19
+			},
+			{
+				"name": "PL5",
+				"total": 12
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 34
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 34
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 52
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 52
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 19
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 19
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 12
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 12
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERÍA DE JUSTICIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 45
+			},
+			{
+				"name": "PL2",
+				"total": 12
+			},
+			{
+				"name": "PL3",
+				"total": 52
+			},
+			{
+				"name": "PL4",
+				"total": 6
+			},
+			{
+				"name": "PL5",
+				"total": 9
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 45
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 45
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 12
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 12
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 52
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 52
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 9
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 9
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN ADMINISTRACIÓN DE JUSTICIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL3",
+				"total": 57
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 57
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 57
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE JUSTICIA",
+			"type": "division"
+		}],
+		"name": "ADMINISTRACIÓN PÚBLICA Y JUSTICIA",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 14
+		},
+		{
+			"name": "PL2",
+			"total": 167
+		},
+		{
+			"name": "PL3",
+			"total": 203
+		},
+		{
+			"name": "PL4",
+			"total": 53
+		},
+		{
+			"name": "PL5",
+			"total": 1
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "CONSEJERIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 3
+			},
+			{
+				"name": "PL3",
+				"total": 3
+			},
+			{
+				"name": "PL4",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE GABINETE Y COMUNICACIÓN",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 14
+			},
+			{
+				"name": "PL2",
+				"total": 89
+			},
+			{
+				"name": "PL3",
+				"total": 82
+			},
+			{
+				"name": "PL4",
+				"total": 24
+			},
+			{
+				"name": "PL5",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 6
+				},
+				{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 6
+				},
+				{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 83
+				},
+				{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 83
+				},
+				{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 82
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 82
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 23
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 23
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE SERVICIOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 8
+			},
+			{
+				"name": "PL3",
+				"total": 13
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 8
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 8
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 13
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 13
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "VICE.DE TECNOLOGÍA, INNOVACIÓN Y COMPETI",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 10
+			},
+			{
+				"name": "PL3",
+				"total": 28
+			},
+			{
+				"name": "PL4",
+				"total": 3
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 28
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 28
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERÍA DE INDUSTRIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL4",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIR. ENERGÍA, MINAS Y ADMON. INDUSTRIAL",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 8
+			},
+			{
+				"name": "PL3",
+				"total": 14
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 8
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 8
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 14
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 14
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERÍA DE COMERCIO Y TURISMO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 42
+			},
+			{
+				"name": "PL3",
+				"total": 57
+			},
+			{
+				"name": "PL4",
+				"total": 23
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 42
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 42
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 57
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 57
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 23
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 23
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICE. AGRICULTURA, PESCA Y POLÍT. ALIMEN",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL3",
+				"total": 1
+			},
+			{
+				"name": "PL4",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIR. AGRICULTURA Y GANADERÍA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 6
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DIR. PESCA Y ACUICULTURA",
+			"type": "division"
+		}],
+		"name": "DESARROLLO ECONÓMICO Y COMPETITIVIDAD",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 17
+		},
+		{
+			"name": "PL2",
+			"total": 233
+		},
+		{
+			"name": "PL3",
+			"total": 153
+		},
+		{
+			"name": "PL4",
+			"total": 146
+		},
+		{
+			"name": "PL5",
+			"total": 1
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "CONSEJERIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 2
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE GABINETE Y COMUNICACIÓN",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 4
+			},
+			{
+				"name": "PL2",
+				"total": 18
+			},
+			{
+				"name": "PL3",
+				"total": 11
+			},
+			{
+				"name": "PL4",
+				"total": 11
+			},
+			{
+				"name": "PL5",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 18
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 18
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE SERVICIOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 4
+			},
+			{
+				"name": "PL2",
+				"total": 77
+			},
+			{
+				"name": "PL3",
+				"total": 67
+			},
+			{
+				"name": "PL4",
+				"total": 96
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 4
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 4
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 77
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 77
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 67
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 67
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 96
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 96
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERIA DE EMPLEO Y TRABAJO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 5
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "SUBDIRECCIÓN DE LA INSPECCIÓN DE TRABAJO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 11
+			},
+			{
+				"name": "PL3",
+				"total": 11
+			},
+			{
+				"name": "PL4",
+				"total": 22
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 22
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 22
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERÍA DE POLÍTICAS SOCIALES",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL4",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIR. DE POLÍT. FAM. Y DESAR. COMUNITAR.",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 5
+			},
+			{
+				"name": "PL2",
+				"total": 118
+			},
+			{
+				"name": "PL3",
+				"total": 51
+			},
+			{
+				"name": "PL4",
+				"total": 9
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 118
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 118
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 51
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 51
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 9
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 9
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERIA DE VIVIENDA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DELEG. TERRITORIAL DE VIVIENDA-ÁLAVA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			},
+			{
+				"name": "PL2",
+				"total": 2
+			},
+			{
+				"name": "PL3",
+				"total": 1
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DELEG. TERRITORIAL DE VIVIENDA-GIPUZKOA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 2
+			},
+			{
+				"name": "PL2",
+				"total": 2
+			},
+			{
+				"name": "PL3",
+				"total": 1
+			},
+			{
+				"name": "PL4",
+				"total": 3
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 3
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DELEG. TERRITORIAL DE VIVIENDA-BIZKAIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE VIVIENDA",
+			"type": "division"
+		}],
+		"name": "EMPLEO Y POLÍTICAS SOCIALES",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 41
+		},
+		{
+			"name": "PL2",
+			"total": 115
+		},
+		{
+			"name": "PL3",
+			"total": 172
+		},
+		{
+			"name": "PL4",
+			"total": 43
+		},
+		{
+			"name": "PL5",
+			"total": 1
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "CONSEJERIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE GABINETE Y COMUNICACIÓN",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 4
+			},
+			{
+				"name": "PL2",
+				"total": 6
+			},
+			{
+				"name": "PL3",
+				"total": 6
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			},
+			{
+				"name": "PL5",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				},
+				{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				},
+				{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE SERVICIOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 19
+			},
+			{
+				"name": "PL3",
+				"total": 62
+			},
+			{
+				"name": "PL4",
+				"total": 3
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 19
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 19
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 62
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 62
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "OFICINA DE CONTROL ECONOMICO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 20
+			},
+			{
+				"name": "PL2",
+				"total": 47
+			},
+			{
+				"name": "PL3",
+				"total": 38
+			},
+			{
+				"name": "PL4",
+				"total": 25
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 20
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 20
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 47
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 47
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 38
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 38
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 25
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 25
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICE. DE ADMON. Y SERVICIOS GENERALES",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE INFORMÁTICA Y TELECOMUNIC",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 17
+			},
+			{
+				"name": "PL2",
+				"total": 12
+			},
+			{
+				"name": "PL3",
+				"total": 3
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 17
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 17
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 12
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 12
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 3
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE RECURSOS GENERALES",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 15
+			},
+			{
+				"name": "PL3",
+				"total": 26
+			},
+			{
+				"name": "PL4",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 15
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 15
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 26
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 26
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICE. DE ECONOMÍA Y PRESUPUESTOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 13
+			},
+			{
+				"name": "PL3",
+				"total": 32
+			},
+			{
+				"name": "PL4",
+				"total": 12
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 13
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 13
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 32
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 32
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 12
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 12
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICE. DE HACIENDA Y POLÍTICA FINANCIERA",
+			"type": "division"
+		}],
+		"name": "HACIENDA Y FINANZAS",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 460
+		},
+		{
+			"name": "PL2",
+			"total": 694
+		},
+		{
+			"name": "PL3",
+			"total": 264
+		},
+		{
+			"name": "PL4",
+			"total": 93
+		},
+		{
+			"name": "PL5",
+			"total": 50
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL1",
+				"total": 436
+			},
+			{
+				"name": "PL2",
+				"total": 675
+			},
+			{
+				"name": "PL3",
+				"total": 254
+			},
+			{
+				"name": "PL4",
+				"total": 90
+			},
+			{
+				"name": "PL5",
+				"total": 50
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 436
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 436
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 674
+				},
+				{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 674
+				},
+				{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 247
+				},
+				{
+					"name": "Eventual",
+					"total": 7
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 247
+				},
+				{
+					"name": "Eventual",
+					"total": 7
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 90
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 90
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 50
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 50
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "CONSEJERIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE GESTION DE PERSONAL",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "01",
+				"type": "langProfile"
+			}],
+			"name": "DIR. DE RÉGIMEN JURÍDICO Y SERVICIOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DELEGACION TERRITORIAL DE ALAVA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 17
+			},
+			{
+				"name": "PL2",
+				"total": 8
+			},
+			{
+				"name": "PL3",
+				"total": 4
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 17
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 17
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 4
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 4
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DELEGACION TERRITORIAL DE GIPUZKOA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 8
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DELEGACION TERRITORIAL DE BIZKAIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 4
+			},
+			{
+				"name": "PL3",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 4
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 4
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 5
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE PATRIMONIO CULTURAL",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 1
+			},
+			{
+				"name": "PL4",
+				"total": 3
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 3
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE JUVENTUD Y DEPORTES",
+			"type": "division"
+		}],
+		"name": "EDUCACIÓN POLÍTICA LINGÜÍSTICA Y CULTURA",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 119
+		},
+		{
+			"name": "PL2",
+			"total": 324
+		},
+		{
+			"name": "PL3",
+			"total": 146
+		},
+		{
+			"name": "PL4",
+			"total": 95
+		},
+		{
+			"name": "PL5",
+			"total": 3
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 5
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "CONSEJERIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE GABINETE DEL CONSEJERO O",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 5
+			},
+			{
+				"name": "PL3",
+				"total": 2
+			},
+			{
+				"name": "PL4",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE COMUNICACIÓN",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 8
+			},
+			{
+				"name": "PL2",
+				"total": 16
+			},
+			{
+				"name": "PL3",
+				"total": 14
+			},
+			{
+				"name": "PL4",
+				"total": 16
+			},
+			{
+				"name": "PL5",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 8
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 8
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 16
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 16
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 14
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 14
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 16
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 16
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERIA DE ADMINISTRACION Y SER",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 108
+			},
+			{
+				"name": "PL2",
+				"total": 96
+			},
+			{
+				"name": "PL3",
+				"total": 42
+			},
+			{
+				"name": "PL4",
+				"total": 9
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 108
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 108
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 96
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 96
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 42
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 42
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 9
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 9
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "D.DE GESTIÓN ECONÓMICA Y RECURSOS GENERA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			},
+			{
+				"name": "PL2",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "D.RÉGIMEN JURÍDICO, SERVICIOS Y P. ELECT",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			},
+			{
+				"name": "PL2",
+				"total": 113
+			},
+			{
+				"name": "PL3",
+				"total": 24
+			},
+			{
+				"name": "PL4",
+				"total": 25
+			},
+			{
+				"name": "PL5",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 113
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 113
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 24
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 24
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 25
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 25
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE RECURSOS HUMANOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 11
+			},
+			{
+				"name": "PL3",
+				"total": 17
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 16
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 16
+				},
+				{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN ATENCION EMERGENCIAS Y METEO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 14
+			},
+			{
+				"name": "PL3",
+				"total": 10
+			},
+			{
+				"name": "PL4",
+				"total": 6
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 14
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 14
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE JUEGO Y ESPECTÁCULOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			},
+			{
+				"name": "PL2",
+				"total": 57
+			},
+			{
+				"name": "PL3",
+				"total": 18
+			},
+			{
+				"name": "PL4",
+				"total": 24
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 57
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 57
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 18
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 18
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 24
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 24
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE TRAFICO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 4
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 4
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 4
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN DE LA ERTZAINTZA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 8
+			},
+			{
+				"name": "PL3",
+				"total": 10
+			},
+			{
+				"name": "PL4",
+				"total": 12
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				},
+				{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				},
+				{
+					"name": "Laboral",
+					"total": 6
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				},
+				{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				},
+				{
+					"name": "Laboral",
+					"total": 8
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 12
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 12
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "D. COORDINACIÓN DE SEGURIDAD",
+			"type": "division"
+		}],
+		"name": "SEGURIDAD",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 38
+		},
+		{
+			"name": "PL2",
+			"total": 424
+		},
+		{
+			"name": "PL3",
+			"total": 384
+		},
+		{
+			"name": "PL4",
+			"total": 15
+		},
+		{
+			"name": "PL5",
+			"total": 5
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL3",
+				"total": 6
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Eventual",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 6
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "CONSEJERIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 3
+			},
+			{
+				"name": "PL3",
+				"total": 1
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DEL GABINETE DEL CONSEJERO",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 2
+			},
+			{
+				"name": "PL2",
+				"total": 17
+			},
+			{
+				"name": "PL3",
+				"total": 16
+			},
+			{
+				"name": "PL4",
+				"total": 3
+			},
+			{
+				"name": "PL5",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 17
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 17
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 16
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 16
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIR. DE REG. JURIDICO, ECONOMICO Y SER",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 27
+			},
+			{
+				"name": "PL2",
+				"total": 404
+			},
+			{
+				"name": "PL3",
+				"total": 361
+			},
+			{
+				"name": "PL4",
+				"total": 10
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 27
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 27
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 404
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 404
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 361
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 361
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERIA DE SALUD",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			}],
+			"name": "DELEGACIÓN TERRITORIAL DE ALAVA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			}],
+			"name": "DELEGACIÓN TERRITORIAL DE BIZKAIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 4
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 4
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 4
+				}],
+				"name": "01",
+				"type": "langProfile"
+			}],
+			"name": "DELEGACIÓN TERRITORIAL DE GIPUZKOA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 3
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 3
+				}],
+				"name": "01",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE SALUD PUBLICA Y ADICCIONES",
+			"type": "division"
+		}],
+		"name": "SALUD",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 25
+		},
+		{
+			"name": "PL2",
+			"total": 85
+		},
+		{
+			"name": "PL3",
+			"total": 109
+		},
+		{
+			"name": "PL4",
+			"total": 14
+		},
+		{
+			"name": "PL5",
+			"total": 2
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 1
+			},
+			{
+				"name": "PL3",
+				"total": 4
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Eventual",
+					"total": 4
+				}],
+				"children": [{
+					"name": "Eventual",
+					"total": 4
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "CONSEJERIA",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 3
+			},
+			{
+				"name": "PL2",
+				"total": 28
+			},
+			{
+				"name": "PL3",
+				"total": 27
+			},
+			{
+				"name": "PL4",
+				"total": 3
+			},
+			{
+				"name": "PL5",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 28
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 28
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 27
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 27
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "VICE. DE ADMON. Y PLANIFICACIÓN TERRITOR",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 2
+				}],
+				"name": "01",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE SERVICIOS",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 32
+			},
+			{
+				"name": "PL3",
+				"total": 56
+			},
+			{
+				"name": "PL4",
+				"total": 10
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 32
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 32
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 56
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 56
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 10
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERIA DE MEDIO AMBIENTE",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 3
+			},
+			{
+				"name": "PL2",
+				"total": 23
+			},
+			{
+				"name": "PL3",
+				"total": 22
+			},
+			{
+				"name": "PL4",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 23
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 23
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 22
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 22
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "VICECONSEJERIA DE TRANSPORTES",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL1",
+				"total": 17
+			},
+			{
+				"name": "PL2",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 17
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 17
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION DE INFRAESTRUCTURA DEL TRANS",
+			"type": "division"
+		}],
+		"name": "MEDIO AMBIENTE Y POLÍTICA TERRITORIAL",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 2
+		},
+		{
+			"name": "PL2",
+			"total": 19
+		},
+		{
+			"name": "PL3",
+			"total": 11
+		},
+		{
+			"name": "PL4",
+			"total": 28
+		},
+		{
+			"name": "PL5",
+			"total": 64
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL1",
+				"total": 2
+			},
+			{
+				"name": "PL2",
+				"total": 19
+			},
+			{
+				"name": "PL3",
+				"total": 11
+			},
+			{
+				"name": "PL4",
+				"total": 28
+			},
+			{
+				"name": "PL5",
+				"total": 64
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 19
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 19
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 11
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 28
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 28
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 64
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 64
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION",
+			"type": "division"
+		}],
+		"name": "INSTITUTO VASCO DE ADMINISTRACION PUBL",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL2",
+			"total": 2
+		},
+		{
+			"name": "PL3",
+			"total": 20
+		},
+		{
+			"name": "PL4",
+			"total": 5
+		},
+		{
+			"name": "PL5",
+			"total": 36
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 2
+			},
+			{
+				"name": "PL3",
+				"total": 20
+			},
+			{
+				"name": "PL4",
+				"total": 5
+			},
+			{
+				"name": "PL5",
+				"total": 36
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 20
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 20
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 25
+				},
+				{
+					"name": "Laboral",
+					"total": 11
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 25
+				},
+				{
+					"name": "Laboral",
+					"total": 11
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION GENERAL",
+			"type": "division"
+		}],
+		"name": "H.A.B.E.",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 34
+		},
+		{
+			"name": "PL2",
+			"total": 31
+		},
+		{
+			"name": "PL3",
+			"total": 16
+		},
+		{
+			"name": "PL4",
+			"total": 27
+		},
+		{
+			"name": "PL5",
+			"total": 9
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL1",
+				"total": 34
+			},
+			{
+				"name": "PL2",
+				"total": 31
+			},
+			{
+				"name": "PL3",
+				"total": 16
+			},
+			{
+				"name": "PL4",
+				"total": 27
+			},
+			{
+				"name": "PL5",
+				"total": 9
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				},
+				{
+					"name": "Laboral",
+					"total": 33
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				},
+				{
+					"name": "Laboral",
+					"total": 33
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 28
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				},
+				{
+					"name": "Laboral",
+					"total": 28
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				},
+				{
+					"name": "Laboral",
+					"total": 15
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				},
+				{
+					"name": "Laboral",
+					"total": 15
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Laboral",
+					"total": 27
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 27
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				},
+				{
+					"name": "Laboral",
+					"total": 7
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				},
+				{
+					"name": "Laboral",
+					"total": 7
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN GENERAL",
+			"type": "division"
+		}],
+		"name": "ACADEMIA VASCA DE POLICÍA Y EMERGENCIA",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 1
+		},
+		{
+			"name": "PL2",
+			"total": 25
+		},
+		{
+			"name": "PL3",
+			"total": 77
+		},
+		{
+			"name": "PL5",
+			"total": 1
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			},
+			{
+				"name": "PL2",
+				"total": 25
+			},
+			{
+				"name": "PL3",
+				"total": 77
+			},
+			{
+				"name": "PL5",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 25
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 25
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 77
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 77
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION GENERAL",
+			"type": "division"
+		}],
+		"name": "INSTITUTO VASCO DE ESTADISTICA",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 1
+		},
+		{
+			"name": "PL2",
+			"total": 6
+		},
+		{
+			"name": "PL3",
+			"total": 23
+		},
+		{
+			"name": "PL4",
+			"total": 6
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL1",
+				"total": 1
+			},
+			{
+				"name": "PL2",
+				"total": 6
+			},
+			{
+				"name": "PL3",
+				"total": 21
+			},
+			{
+				"name": "PL4",
+				"total": 6
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 21
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 21
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 6
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL3",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 1
+				},
+				{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 1
+				},
+				{
+					"name": "Eventual",
+					"total": 1
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "SECRETARIA GENERAL",
+			"type": "division"
+		}],
+		"name": "INSTITUTO VASCO DE LA MUJER",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 5
+		},
+		{
+			"name": "PL2",
+			"total": 63
+		},
+		{
+			"name": "PL3",
+			"total": 82
+		},
+		{
+			"name": "PL4",
+			"total": 25
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL1",
+				"total": 5
+			},
+			{
+				"name": "PL2",
+				"total": 58
+			},
+			{
+				"name": "PL3",
+				"total": 82
+			},
+			{
+				"name": "PL4",
+				"total": 25
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 5
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 58
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 58
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 82
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 82
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 25
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 25
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION GENERAL",
+			"type": "division"
+		},
+		{
+			"totals": [{
+				"name": "PL2",
+				"total": 5
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Laboral",
+					"total": 5
+				}],
+				"children": [{
+					"name": "Laboral",
+					"total": 5
+				}],
+				"name": "02",
+				"type": "langProfile"
+			}],
+			"name": "CENTRO TERRITORIAL BIZKAIA",
+			"type": "division"
+		}],
+		"name": "INSTITUTO VASCO SEGURIDAD Y SALUD LABO",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL3",
+			"total": 3
+		},
+		{
+			"name": "PL4",
+			"total": 3
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL3",
+				"total": 3
+			},
+			{
+				"name": "PL4",
+				"total": 3
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "GABINETE TECNICO COMIS. JURIDICO ASESO",
+			"type": "division"
+		}],
+		"name": "COMISION JURIDICA ASESORA DE EUSKADI",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL3",
+			"total": 2
+		},
+		{
+			"name": "PL4",
+			"total": 2
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL3",
+				"total": 2
+			},
+			{
+				"name": "PL4",
+				"total": 2
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "ORGANO ADMTVO. RECURSOS CONTRACTUALES",
+			"type": "division"
+		}],
+		"name": "ORGANO ADMTVO. RECURSOS CONTRACTUALES",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL2",
+			"total": 17
+		},
+		{
+			"name": "PL3",
+			"total": 37
+		},
+		{
+			"name": "PL4",
+			"total": 7
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 17
+			},
+			{
+				"name": "PL3",
+				"total": 37
+			},
+			{
+				"name": "PL4",
+				"total": 7
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 17
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 17
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 37
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 37
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 7
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 7
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN",
+			"type": "division"
+		}],
+		"name": "KONTSUMOBIDE-INSTITUTO VASCO DE CONSUM",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL1",
+			"total": 9
+		},
+		{
+			"name": "PL2",
+			"total": 363
+		},
+		{
+			"name": "PL3",
+			"total": 519
+		},
+		{
+			"name": "PL4",
+			"total": 26
+		},
+		{
+			"name": "PL5",
+			"total": 1
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL1",
+				"total": 9
+			},
+			{
+				"name": "PL2",
+				"total": 363
+			},
+			{
+				"name": "PL3",
+				"total": 519
+			},
+			{
+				"name": "PL4",
+				"total": 26
+			},
+			{
+				"name": "PL5",
+				"total": 1
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 9
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 9
+				}],
+				"name": "01",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 363
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 363
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 519
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 519
+				}],
+				"name": "03",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 26
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 26
+				}],
+				"name": "04",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 1
+				}],
+				"name": "05",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCIÓN GENERAL",
+			"type": "division"
+		}],
+		"name": "LANBIDE-SERVICIO VASCO DE EMPLEO",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL2",
+			"total": 2
+		},
+		{
+			"name": "PL4",
+			"total": 7
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 2
+			},
+			{
+				"name": "PL4",
+				"total": 7
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 2
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 7
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 7
+				}],
+				"name": "04",
+				"type": "langProfile"
+			}],
+			"name": "PRESIDENCIA",
+			"type": "division"
+		}],
+		"name": "AUTORIDAD VASCA DE LA COMPETENCIA",
+		"type": "area"
+	},
+	{
+		"totals": [{
+			"name": "PL2",
+			"total": 3
+		},
+		{
+			"name": "PL3",
+			"total": 3
+		}],
+		"children": [{
+			"totals": [{
+				"name": "PL2",
+				"total": 3
+			},
+			{
+				"name": "PL3",
+				"total": 3
+			}],
+			"children": [{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "02",
+				"type": "langProfile"
+			},
+			{
+				"totals": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"children": [{
+					"name": "Funcionario",
+					"total": 3
+				}],
+				"name": "03",
+				"type": "langProfile"
+			}],
+			"name": "DIRECCION",
+			"type": "division"
+		}],
+		"name": "INST. DE MEMORIA ,CONVIVENCIA, DEREC. HU",
+		"type": "area"
+	}],
+	"name": "Relación de Puestos de Trabajo",
+	"type": "main"
+}
