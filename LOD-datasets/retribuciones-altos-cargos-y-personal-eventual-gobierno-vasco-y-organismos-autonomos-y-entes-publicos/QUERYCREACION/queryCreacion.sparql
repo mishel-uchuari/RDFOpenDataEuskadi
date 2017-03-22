@@ -8,7 +8,7 @@ PREFIX frapo:<http://purl.org/cerif/frapo/>
 INSERT{
   graph<http://opendata.euskadi.eus/catalogo/id/retribuciones-altos-cargos-y-personal-eventual-gobierno-vasco-y-organismos-autonomos-y-entes-publicos/>{
   ?uriGeneral a frapo:EmploymentContract;
-  schema:employee ?NomAp;
+  schema:employee ?uriEmployee;
   dbpedia:occupation ?uriCargoPublico;
   pproc:ContractEconomicConditions ?Retribuciones;
   pproc:formalizedDate ?fechaInicioRelParseada;
@@ -61,4 +61,7 @@ INSERT{
   bind(iri(concat("http://opendata.euskadi.eus/recurso/sector-publico/contrato/", spif:encodeURL(?CargoPublico), "-", spif:encodeURL(?empleado), "-", spif:encodeURL(?Departamento), "-", spif:encodeURL(?OrganoConGuion), "-",?fechaActParseada )) as ?uriGeneral)
   #Uri departamento
   bind(iri(concat("http://opendata.euskadi.eus/recurso/sector-publico/departamento/", spif:encodeURL(?Departamento))) as ?uriDepartamento)
+  #Uri empleado 
+  bind(iri(concat("http://opendata.euskadi.eus/recurso/sector-publico/employee/", spif:encodeURL(?empleado))) as ?uriEmployee)
+
 }
