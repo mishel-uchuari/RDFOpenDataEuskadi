@@ -1162,5 +1162,96 @@
     "baseColumnName": "Organo",
     "expression": "grel:value.replace(\" \",\"-\")",
     "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column NomAp using expression grel:value.replace(\"i�igo\", \"inigo\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "NomAp",
+    "expression": "grel:value.replace(\"i�igo\", \"inigo\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column empleado using expression grel:value.replace(\"i�igo\", \"inigo\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "empleado",
+    "expression": "grel:value.replace(\"i�igo\", \"inigo\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column OrganoConGuion using expression grel:value.replace(\"---\",\"-\"",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "OrganoConGuion",
+    "expression": "grel:value.replace(\"---\",\"-\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column OrganoConGuion using expression grel:value.replace(\"---\",\"-\"",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "OrganoConGuion",
+    "expression": "grel:value.replace(\"---\",\"-\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column OrganoConGuion using expression grel:value.replace(\".\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "OrganoConGuion",
+    "expression": "grel:value.replace(\".\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column OrganoConGuion using expression grel:value.replace(\",\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "OrganoConGuion",
+    "expression": "grel:value.replace(\",\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column OrganoConGuion using expression grel:value.replace(\"---\",\"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "OrganoConGuion",
+    "expression": "grel:value.replace(\"---\",\"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]
