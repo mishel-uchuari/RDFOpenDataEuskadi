@@ -25,7 +25,7 @@ INSERT{
   ?uriMedicion ?urivelMedia1100.
   
    #Parte dirMedia
-   ?uridirMedia1100 a ?uridirMedia1100gen; 
+   ?uridirMedia1100 a ?uridirMedia1100gen;
    rdfs:comment ?dirMediaComment; 
    sdmx-attribute:unitMeasure ?gradoscentigrados; 
    sdmx-measure:obsValue ?dirMedia1100.
