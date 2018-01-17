@@ -34,7 +34,7 @@ INSERT{
   ?uriCO a ?uriCOgen;
   rdfs:comment ?COComment;
   rdfs:label ?COLabel;
-  sdmx-attribute:unitMeasure ?umcubico;
+  sdmx-attribute:unitMeasure ?gmcubico;
   sdmx-measure:obsValue ?NO.
   #Parte CO8h
   ?uriCO8h a ?uriCO8hgen;
@@ -218,7 +218,7 @@ bind(iri(concat("http://es.euskadi.eus/def/environment/air-quality/meassurement/
   bind(STRLANG(concat("NO-", ?fechaParseada),"es") as ?NOLabel)
 
   #URIS
-  bind(iri("http://dd.eionet.europa.eu/vocabulary/uom/concentration/ug.m-3") as ?gmcubico)
+  bind(iri("http://dd.eionet.europa.eu/vocabulary/uom/concentration/mg.m-3") as ?gmcubico)
   bind(iri("http://dd.eionet.europa.eu/vocabulary/uom/concentration/ug.m-3") as ?umcubico)
  
   bind(iri("http://es.euskadi.eus/id/environment/air-quality/meassurement-station/C040") as ?nomEst)

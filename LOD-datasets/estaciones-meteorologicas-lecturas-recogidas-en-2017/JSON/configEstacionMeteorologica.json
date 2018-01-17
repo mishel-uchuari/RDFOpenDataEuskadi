@@ -449,15 +449,10 @@
     "repeatCount": 10
   },
   {
-    "op": "core/column-removal",
-    "description": "Remove column Hora",
-    "columnName": "Hora"
-  },
-  {
     "op": "core/text-transform",
     "description": "Text transform on cells in column Fecha using expression grel:value.replace(\"-\",\"/\")",
     "engineConfig": {
-      "mode": "row-based",
+      "mode": "record-based",
       "facets": []
     },
     "columnName": "Fecha",
@@ -465,5 +460,18 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column HoraParseada at index 3 based on column Hora using expression grel:value.replace(\":\",\"-\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "newColumnName": "HoraParseada",
+    "columnInsertIndex": 3,
+    "baseColumnName": "Hora",
+    "expression": "grel:value.replace(\":\",\"-\")",
+    "onError": "set-to-blank"
   }
 ]
