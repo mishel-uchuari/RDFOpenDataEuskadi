@@ -1,1 +1,0 @@
-url: http://opendata.euskadi.eus/catalogo/-/registro-de-contratos-del-sector-publico-de-euskadi/

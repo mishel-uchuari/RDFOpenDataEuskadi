@@ -1,1 +1,0 @@
-url: http://opendata.euskadi.eus/catalogo/-/retribuciones-altos-cargos-y-personal-eventual-gobierno-vasco-y-organismos-autonomos-y-entes-publicos/

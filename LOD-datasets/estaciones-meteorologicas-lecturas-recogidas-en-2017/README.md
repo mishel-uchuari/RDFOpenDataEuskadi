@@ -1,1 +1,0 @@
-url: http://opendata.euskadi.eus/catalogo/-/estaciones-meteorologicas-lecturas-recogidas-en-2017/
