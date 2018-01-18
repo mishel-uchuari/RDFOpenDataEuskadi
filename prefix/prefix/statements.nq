@@ -1,0 +1,36 @@
+<http://es.euskadi.eus/id/environment/air-quality/observation/> <http://www.w3.org/2000/01/rdf-schema#label> "calidad del aire"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/def/environment/air-quality/meassurement/> <http://www.w3.org/2000/01/rdf-schema#label> "calidad del aire"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/environment/air-quality/element/> <http://www.w3.org/2000/01/rdf-schema#label> "calidad del aire"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/environment/air-quality/meassurement-station/> <http://www.w3.org/2000/01/rdf-schema#label> "calidad del aire"@es <http://es.euskadi.eus/graph/prefix> .
+<http://opendata.euskadi.eus/def/medio-ambiente/medicion/> <http://www.w3.org/2000/01/rdf-schema#label> "calidad del aire"@es <http://es.euskadi.eus/graph/prefix> .
+<http://purl.org/linked-data/cube#> <http://www.w3.org/2000/01/rdf-schema#label> "data cube"@es <http://es.euskadi.eus/graph/prefix> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#> <http://www.w3.org/2000/01/rdf-schema#label> "rdf"@es <http://es.euskadi.eus/graph/prefix> .
+<http://www.w3.org/2000/01/rdf-schema#> <http://www.w3.org/2000/01/rdf-schema#label> "rdfs"@es <http://es.euskadi.eus/graph/prefix> .
+<http://xmlns.com/foaf/0.1/> <http://www.w3.org/2000/01/rdf-schema#label> "foaf"@es <http://es.euskadi.eus/graph/prefix> .
+<http://purl.org/dc/terms/> <http://www.w3.org/2000/01/rdf-schema#label> "dct"@es <http://es.euskadi.eus/graph/prefix> .
+<http://www.w3.org/2003/01/geo/wgs84_pos#> <http://www.w3.org/2000/01/rdf-schema#label> "geo"@es <http://es.euskadi.eus/graph/prefix> .
+<http://purl.org/linked-data/sdmx/2009/attribute#> <http://www.w3.org/2000/01/rdf-schema#label> "sdmx"@es <http://es.euskadi.eus/graph/prefix> .
+<http://purl.org/linked-data/sdmx/2009/measure#> <http://www.w3.org/2000/01/rdf-schema#label> "sdmx"@es <http://es.euskadi.eus/graph/prefix> .
+<http://dd.eionet.europa.eu/vocabulary/uom/concentration/> <http://www.w3.org/2000/01/rdf-schema#label> "eionet"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/public-sector/administration/contract/> <http://www.w3.org/2000/01/rdf-schema#label> "contratos sector publico"@es <http://es.euskadi.eus/graph/prefix> .
+<http://euskadi.eus/def/public-sector/administration/> <http://www.w3.org/2000/01/rdf-schema#label> "contratos sector publico"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/public-sector/administration/department/> <http://www.w3.org/2000/01/rdf-schema#label> "contratos sector publico"@es <http://es.euskadi.eus/graph/prefix> .
+<http://euskadi.eus/def/public-sector/administration/contrato/cargo-publico> <http://www.w3.org/2000/01/rdf-schema#label> "contratos sector publico"@es <http://es.euskadi.eus/graph/prefix> .
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#> <http://es.euskadi.eus/def/prefix> "rdf"@es <http://es.euskadi.eus/graph/prefix> .
+<http://www.w3.org/2000/01/rdf-schema#> <http://es.euskadi.eus/def/prefix> "rdfs"@es <http://es.euskadi.eus/graph/prefix> .
+<http://xmlns.com/foaf/0.1/> <http://es.euskadi.eus/def/prefix> "foaf"@es <http://es.euskadi.eus/graph/prefix> .
+<http://www.w3.org/2003/01/geo/wgs84_pos#> <http://es.euskadi.eus/def/prefix> "geo"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/environment/air-quality/observation/> <http://es.euskadi.eus/def/prefix> "observation"@es <http://es.euskadi.eus/graph/prefix> .
+<http://purl.org/linked-data/cube#> <http://es.euskadi.eus/def/prefix> "qb"@es <http://es.euskadi.eus/graph/prefix> .
+<http://opendata.euskadi.eus/def/medio-ambiente/medicion/> <http://es.euskadi.eus/def/prefix> "medicion"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/environment/air-quality/element/> <http://es.euskadi.eus/def/prefix> "elemento"@es <http://es.euskadi.eus/graph/prefix> .
+<http://purl.org/dc/terms/> <http://es.euskadi.eus/def/prefix> "dcterms"@es <http://es.euskadi.eus/graph/prefix> .
+<http://purl.org/linked-data/sdmx/2009/attribute#> <http://es.euskadi.eus/def/prefix> "sdmx-attribute"@es <http://es.euskadi.eus/graph/prefix> .
+<http://dd.eionet.europa.eu/vocabulary/uom/concentration/> <http://es.euskadi.eus/def/prefix> "unidad-medida"@es <http://es.euskadi.eus/graph/prefix> .
+<http://purl.org/linked-data/sdmx/2009/measure#> <http://es.euskadi.eus/def/prefix> "sdmx-measure"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/def/environment/air-quality/meassurement/> <http://es.euskadi.eus/def/prefix> "meassurement"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/environment/air-quality/meassurement-station/> <http://es.euskadi.eus/def/prefix> "estacion-medicion"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/public-sector/administration/contract/> <http://es.euskadi.eus/def/prefix> "contract"@es <http://es.euskadi.eus/graph/prefix> .
+<http://euskadi.eus/def/public-sector/administration/> <http://es.euskadi.eus/def/prefix> "administration"@es <http://es.euskadi.eus/graph/prefix> .
+<http://es.euskadi.eus/id/public-sector/administration/department/> <http://es.euskadi.eus/def/prefix> "departamento"@es <http://es.euskadi.eus/graph/prefix> .
+<http://euskadi.eus/def/public-sector/administration/contrato/cargo-publico> <http://es.euskadi.eus/def/prefix> "contrato"@es <http://es.euskadi.eus/graph/prefix> .

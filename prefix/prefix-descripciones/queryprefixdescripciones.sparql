@@ -1,0 +1,28 @@
+PREFIX pr: <http://purl.org/ontology/prv/core#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX spif: <http://spinrdf.org/spif#>
+PREFIX sdmx-attribute:  <http://purl.org/linked-data/sdmx/2009/attribute#> 
+PREFIX sdmx-measure:    <http://purl.org/linked-data/sdmx/2009/measure#> 
+PREFIX medicion: <http://opendata.euskadi.eus/medicion/AV-GASTEIZ/>
+
+INSERT{
+    graph<http://es.euskadi.eus/graph/prefix-descripcion>{
+ ?uriRecurso rdfs:label ?elementLabel;
+      rdfs:comment ?elementComment.
+    }
+} where {
+    service <http://lod.eurohelp.es:7200/rdf-bridge/2399850061863> {
+    ?numberRow a <urn:Row>;
+        <urn:col:Recurso> ?recurso;
+        <urn:col:label> ?label;
+        <urn:col:comentario> ?comentario;}
+
+  bind(iri(?recurso) as ?uriRecurso)
+  bind(STRLANG(?comentario,"es") as ?elementComment)
+  bind(STRLANG(?label,"es") as ?elementLabel)
+
+}

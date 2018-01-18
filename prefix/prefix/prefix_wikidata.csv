@@ -1,0 +1,19 @@
+Tipo;Prefix;Valor
+calidad del aire;observation;http://es.euskadi.eus/id/environment/air-quality/observation/
+data cube;qb;http://purl.org/linked-data/cube#
+rdf;rdf;http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdfs;rdfs;http://www.w3.org/2000/01/rdf-schema#
+calidad del aire;meassurement;http://es.euskadi.eus/def/environment/air-quality/meassurement/
+calidad del aire;elemento;http://es.euskadi.eus/id/environment/air-quality/element/
+foaf;foaf;http://xmlns.com/foaf/0.1/
+dct;dcterms;http://purl.org/dc/terms/
+geo;geo;http://www.w3.org/2003/01/geo/wgs84_pos#
+sdmx;sdmx-attribute;http://purl.org/linked-data/sdmx/2009/attribute#
+eionet;unidad-medida;http://dd.eionet.europa.eu/vocabulary/uom/concentration/
+sdmx;sdmx-measure;http://purl.org/linked-data/sdmx/2009/measure#
+calidad del aire;estacion-medicion;http://es.euskadi.eus/id/environment/air-quality/meassurement-station/
+contratos sector publico;contract;http://es.euskadi.eus/id/public-sector/administration/contract/
+contratos sector publico;administration;http://euskadi.eus/def/public-sector/administration/
+contratos sector publico;departamento;http://es.euskadi.eus/id/public-sector/administration/department/
+contratos sector publico;contrato;http://euskadi.eus/def/public-sector/administration/contrato/cargo-publico
+calidad del aire;medicion;http://opendata.euskadi.eus/def/medio-ambiente/medicion/

@@ -1,0 +1,20 @@
+PREFIX spif: <http://spinrdf.org/spif#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+INSERT{
+graph<http://es.euskadi.eus/graph/prefix>{
+	?uriPrefixExpandido <http://es.euskadi.eus/def/prefix> ?prefixComprimidoStr;
+    rdfs:label ?grupoPrefix.
+    }
+}WHERE{
+   service <http://lod.eurohelp.es:7200/rdf-bridge/2186339078221> {
+     ?numRow a <urn:Row>;
+     <urn:col:Tipo> ?tipo;
+     <urn:col:Prefix> ?prefixComprimido;
+     <urn:col:Valor> ?prefixExpandido;
+  }
+  #Uris predicados
+  bind(iri(?prefixExpandido) as ?uriPrefixExpandido)
+  #Etiquetas de idioma
+  bind(STRLANG(?prefixComprimido,"es") as ?prefixComprimidoStr)
+  bind(STRLANG(?tipo,"es") as ?grupoPrefix)
+}

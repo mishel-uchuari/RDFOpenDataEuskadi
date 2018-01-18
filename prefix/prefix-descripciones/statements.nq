@@ -1,0 +1,126 @@
+<http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/2000/01/rdf-schema#comment> "Comentario sobre un recurso"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#comment> "Nombre/Identificador de un recurso"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/dc/terms/date> <http://www.w3.org/2000/01/rdf-schema#comment> "Fecha"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://www.w3.org/2003/01/geo/wgs84_pos#location> <http://www.w3.org/2000/01/rdf-schema#comment> "Geo localizaci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure> <http://www.w3.org/2000/01/rdf-schema#comment> "Unidad de medida"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/linked-data/sdmx/2009/measure#obsValue> <http://www.w3.org/2000/01/rdf-schema#comment> "Valor obtenido"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://dd.eionet.europa.eu/vocabulary/uom/concentration/mg.m-3> <http://www.w3.org/2000/01/rdf-schema#comment> "Miligramos por metro c\uFFFDbico"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://dd.eionet.europa.eu/vocabulary/uom/concentration/ug.m-3> <http://www.w3.org/2000/01/rdf-schema#comment> "Microgramos por metro c\uFFFDbico"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://dbpedia.org/ontology/percentage> <http://www.w3.org/2000/01/rdf-schema#comment> "Porcentaje"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/iot/vocab/m3-lite#WattPerMeterSquare> <http://www.w3.org/2000/01/rdf-schema#comment> "Vatios metro cuadrado"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/iot/vocab/m3-lite#Millibar> <http://www.w3.org/2000/01/rdf-schema#comment> "Milibar"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/iot/vocab/m3-lite#KilometerPerHour> <http://www.w3.org/2000/01/rdf-schema#comment> "Kilometro por hora"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/poder-adjudicador> <http://www.w3.org/2000/01/rdf-schema#comment> "Poder adjudicador"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/codigo-contrato> <http://www.w3.org/2000/01/rdf-schema#comment> "C\uFFFDdigo contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/tipo-contrato> <http://www.w3.org/2000/01/rdf-schema#comment> "Tipo contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/ano-contrato> <http://www.w3.org/2000/01/rdf-schema#comment> "A\uFFFDo contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/contrato-menor> <http://www.w3.org/2000/01/rdf-schema#comment> "Contrato menor"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/ambito> <http://www.w3.org/2000/01/rdf-schema#comment> "\uFFFDmbito"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/tipo-administracion> <http://www.w3.org/2000/01/rdf-schema#comment> "Tipo administraci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/entidad-impulsora> <http://www.w3.org/2000/01/rdf-schema#comment> "Entidad impulsora"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/organo-contratante> <http://www.w3.org/2000/01/rdf-schema#comment> "\uFFFDrgano contratante"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/entidad-tramitadora> <http://www.w3.org/2000/01/rdf-schema#comment> "Entidad tramitadora"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/mesa-de-contratacion> <http://www.w3.org/2000/01/rdf-schema#comment> "Mesa de contrataci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/objeto-del-contrato> <http://www.w3.org/2000/01/rdf-schema#comment> "Objeto del contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/cod-identificador-contrato> <http://www.w3.org/2000/01/rdf-schema#comment> "C\uFFFDdigo identificador del contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/lugar-ejecucion> <http://www.w3.org/2000/01/rdf-schema#comment> "Lugar ejecuci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/nuts> <http://www.w3.org/2000/01/rdf-schema#comment> "Nuts"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/codigo-cpv> <http://www.w3.org/2000/01/rdf-schema#comment> "C\uFFFDdigo cpv"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/contratacion-por-lotes> <http://www.w3.org/2000/01/rdf-schema#comment> "Contrataci\uFFFDn por lotes"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/contratacion-mixto> <http://www.w3.org/2000/01/rdf-schema#comment> "Contrataci\uFFFDn mixto"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/acuerdo-marco> <http://www.w3.org/2000/01/rdf-schema#comment> "Acuerdo marco"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/contrato-complementario> <http://www.w3.org/2000/01/rdf-schema#comment> "Contrato complementario"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/publicidad> <http://www.w3.org/2000/01/rdf-schema#comment> "Publicidad"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-publicacion-en-el-DOUE> <http://www.w3.org/2000/01/rdf-schema#comment> "Fecha publicaci\uFFFDn en el DOUE"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-publicacion-en-perfil-contratante> <http://www.w3.org/2000/01/rdf-schema#comment> "Fecha publicaci\uFFFDn en perfil contratante"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-adjudicacion> <http://www.w3.org/2000/01/rdf-schema#comment> "Fecha adjudicacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/tramitacion> <http://www.w3.org/2000/01/rdf-schema#comment> "Tramitaci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/procedimiento-de-adjudicacion> <http://www.w3.org/2000/01/rdf-schema#comment> "Procedimiento de adjudicaci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/criterios-de-valoracion> <http://www.w3.org/2000/01/rdf-schema#comment> "Criterios de valoraci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-licitacion-sin-IVA> <http://www.w3.org/2000/01/rdf-schema#comment> "Importe licitaci\uFFFDn sin IVA"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-licitacion-con-IVA> <http://www.w3.org/2000/01/rdf-schema#comment> "Importe licitaci\uFFFDn con IVA"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/IVA-importe-licitacion> <http://www.w3.org/2000/01/rdf-schema#comment> "IVA importe licitacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-de-adjudicacion-sin-IVA> <http://www.w3.org/2000/01/rdf-schema#comment> "Importe de adjudicaci\uFFFDn sin IVA"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-de-adjudicacion-con-IVA> <http://www.w3.org/2000/01/rdf-schema#comment> "Importe de adjudicaci\uFFFDn con IVA"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/IVA-importe-adjudicacion> <http://www.w3.org/2000/01/rdf-schema#comment> "IVA importe adjudicaci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/plazo-ejecucion-meses> <http://www.w3.org/2000/01/rdf-schema#comment> "Plazo adjudicacion(meses)"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/caracter-plurianual> <http://www.w3.org/2000/01/rdf-schema#comment> "Car\uFFFDcter plurianual"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/anualidad> <http://www.w3.org/2000/01/rdf-schema#comment> "Anualidad"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/adjudicatario> <http://www.w3.org/2000/01/rdf-schema#comment> "Adjudicatario"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/indicador-ingreso> <http://www.w3.org/2000/01/rdf-schema#comment> "Indicador ingreso"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/modificacion-objeto> <http://www.w3.org/2000/01/rdf-schema#comment> "Modificaci\uFFFDn objeto"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/continuidad-contrato> <http://www.w3.org/2000/01/rdf-schema#comment> "Continuidad contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-modificacion> <http://www.w3.org/2000/01/rdf-schema#comment> "Fecha modificaci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-descarga> <http://www.w3.org/2000/01/rdf-schema#comment> "Fecha descarga"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/cod-puesto> <http://www.w3.org/2000/01/rdf-schema#comment> "Codigo puesto"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/dotacion> <http://www.w3.org/2000/01/rdf-schema#comment> "Dotaci\uFFFDn"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/cod-departamento> <http://www.w3.org/2000/01/rdf-schema#comment> "C\uFFFDdigo departamento"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/centro-organico> <http://www.w3.org/2000/01/rdf-schema#comment> "Centro org\uFFFDnico"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/cod-centro-destino> <http://www.w3.org/2000/01/rdf-schema#comment> "Codigo centro org\uFFFDnico"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/centro-destino> <http://www.w3.org/2000/01/rdf-schema#comment> "Centro destino"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/categoria-retributiva> <http://www.w3.org/2000/01/rdf-schema#comment> "Categoria retributiva"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/perfil-linguistico> <http://www.w3.org/2000/01/rdf-schema#comment> "Perfil ling\uFFFD\uFFFDstico"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-retributivo> <http://www.w3.org/2000/01/rdf-schema#comment> "Importe retributivo"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/publicidad> <http://www.w3.org/2000/01/rdf-schema#label> "publicidad"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/2000/01/rdf-schema#label> "comment"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#label> "label"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/dc/terms/date> <http://www.w3.org/2000/01/rdf-schema#label> "date"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://www.w3.org/2003/01/geo/wgs84_pos#location> <http://www.w3.org/2000/01/rdf-schema#label> "location"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure> <http://www.w3.org/2000/01/rdf-schema#label> "unitMeasure"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/linked-data/sdmx/2009/measure#obsValue> <http://www.w3.org/2000/01/rdf-schema#label> "obsValue"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://dd.eionet.europa.eu/vocabulary/uom/concentration/ug.m-3> <http://www.w3.org/2000/01/rdf-schema#label> "ug.m-3"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://dd.eionet.europa.eu/vocabulary/uom/concentration/mg.m-3> <http://www.w3.org/2000/01/rdf-schema#label> "mg.m-3"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://dbpedia.org/ontology/percentage> <http://www.w3.org/2000/01/rdf-schema#label> "percentage"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/iot/vocab/m3-lite#WattPerMeterSquare> <http://www.w3.org/2000/01/rdf-schema#label> "WattPerMeterSquare"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/iot/vocab/m3-lite#Millibar> <http://www.w3.org/2000/01/rdf-schema#label> "Millibar"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://purl.org/iot/vocab/m3-lite#KilometerPerHour> <http://www.w3.org/2000/01/rdf-schema#label> "KilometerPerHour"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/poder-adjudicador> <http://www.w3.org/2000/01/rdf-schema#label> "poder-adjudicador"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/codigo-contrato> <http://www.w3.org/2000/01/rdf-schema#label> "codigo-contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/tipo-contrato> <http://www.w3.org/2000/01/rdf-schema#label> "tipo-contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/ano-contrato> <http://www.w3.org/2000/01/rdf-schema#label> "ano-contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/contrato-menor> <http://www.w3.org/2000/01/rdf-schema#label> "contrato-menor"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/ambito> <http://www.w3.org/2000/01/rdf-schema#label> "ambito"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/tipo-administracion> <http://www.w3.org/2000/01/rdf-schema#label> "tipo-administracion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/entidad-impulsora> <http://www.w3.org/2000/01/rdf-schema#label> "entidad-impulsora"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/organo-contratante> <http://www.w3.org/2000/01/rdf-schema#label> "organo-contratante"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/entidad-tramitadora> <http://www.w3.org/2000/01/rdf-schema#label> "entidad-tramitadora"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/mesa-de-contratacion> <http://www.w3.org/2000/01/rdf-schema#label> "mesa-de-contratacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/objeto-del-contrato> <http://www.w3.org/2000/01/rdf-schema#label> "objeto-contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/cod-identificador-contrato> <http://www.w3.org/2000/01/rdf-schema#label> "cod-identificador-contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/lugar-ejecucion> <http://www.w3.org/2000/01/rdf-schema#label> "lugar-ejecucion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/nuts> <http://www.w3.org/2000/01/rdf-schema#label> "nuts"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/codigo-cpv> <http://www.w3.org/2000/01/rdf-schema#label> "codigo-cpv"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/contratacion-por-lotes> <http://www.w3.org/2000/01/rdf-schema#label> "contratacion-por-lotes"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/contratacion-mixto> <http://www.w3.org/2000/01/rdf-schema#label> "contratacion-mixto"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/acuerdo-marco> <http://www.w3.org/2000/01/rdf-schema#label> "acuerdo-marco"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/contrato-complementario> <http://www.w3.org/2000/01/rdf-schema#label> "contrato-complementario"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-publicacion-en-el-DOUE> <http://www.w3.org/2000/01/rdf-schema#label> "fecha-publicacion-en-el-DOUE"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-publicacion-en-perfil-contratante> <http://www.w3.org/2000/01/rdf-schema#label> "fecha-publicacion-en-perfil-contratante"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-adjudicacion> <http://www.w3.org/2000/01/rdf-schema#label> "fecha-adjudicacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/tramitacion> <http://www.w3.org/2000/01/rdf-schema#label> "tramitacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/procedimiento-de-adjudicacion> <http://www.w3.org/2000/01/rdf-schema#label> "procedimiento-de-adjudicacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/criterios-de-valoracion> <http://www.w3.org/2000/01/rdf-schema#label> "criterios-de-valoracion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-licitacion-sin-IVA> <http://www.w3.org/2000/01/rdf-schema#label> "importe-licitacion-sin-IVA"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-licitacion-con-IVA> <http://www.w3.org/2000/01/rdf-schema#label> "importe-licitacion-con-IVA"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/IVA-importe-licitacion> <http://www.w3.org/2000/01/rdf-schema#label> "IVA-importe-licitacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-de-adjudicacion-sin-IVA> <http://www.w3.org/2000/01/rdf-schema#label> "importe-de-adjudicacion-sin-IVA"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-de-adjudicacion-con-IVA> <http://www.w3.org/2000/01/rdf-schema#label> "importe-de-adjudicacion-con-IVA"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/IVA-importe-adjudicacion> <http://www.w3.org/2000/01/rdf-schema#label> "IVA-importe-adjudicacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/plazo-ejecucion-meses> <http://www.w3.org/2000/01/rdf-schema#label> "plazo-adjudicacion-meses"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/caracter-plurianual> <http://www.w3.org/2000/01/rdf-schema#label> "caracter-plurianual"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/anualidad> <http://www.w3.org/2000/01/rdf-schema#label> "anualidad"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/adjudicatario> <http://www.w3.org/2000/01/rdf-schema#label> "adjudicatario"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/indicador-ingreso> <http://www.w3.org/2000/01/rdf-schema#label> "indicador-ingreso"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/modificacion-objeto> <http://www.w3.org/2000/01/rdf-schema#label> "modificacion-objeto"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/continuidad-contrato> <http://www.w3.org/2000/01/rdf-schema#label> "continuidad-contrato"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-modificacion> <http://www.w3.org/2000/01/rdf-schema#label> "fecha-modificacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/fecha-descarga> <http://www.w3.org/2000/01/rdf-schema#label> "fecha-descarga"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/cod-puesto> <http://www.w3.org/2000/01/rdf-schema#label> "cod-puesto"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/dotacion> <http://www.w3.org/2000/01/rdf-schema#label> "dotacion"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/cod-departamento> <http://www.w3.org/2000/01/rdf-schema#label> "cod-departamento"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/centro-organico> <http://www.w3.org/2000/01/rdf-schema#label> "centro-organico"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/cod-centro-destino> <http://www.w3.org/2000/01/rdf-schema#label> "cod-centro-destino"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/centro-destino> <http://www.w3.org/2000/01/rdf-schema#label> "centro-destino"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/categoria-retributiva> <http://www.w3.org/2000/01/rdf-schema#label> "categoria-retributiva"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/perfil-linguistico> <http://www.w3.org/2000/01/rdf-schema#label> "perfil-linguistico"@es <http://es.euskadi.eus/graph/prefix-descripcion> .
+<http://euskadi.eus/def/public-sector/administration/importe-retributivo> <http://www.w3.org/2000/01/rdf-schema#label> "importe-retributivo"@es <http://es.euskadi.eus/graph/prefix-descripcion> .

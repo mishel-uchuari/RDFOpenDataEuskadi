@@ -1,0 +1,64 @@
+Recurso;label;comentario
+http://www.w3.org/2000/01/rdf-schema#comment;comment;Comentario sobre un recurso
+http://www.w3.org/2000/01/rdf-schema#label;label;Nombre/Identificador de un recurso
+http://purl.org/dc/terms/date;date;Fecha
+http://www.w3.org/2003/01/geo/wgs84_pos#location;location;Geo localización
+http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure;unitMeasure;Unidad de medida
+http://purl.org/linked-data/sdmx/2009/measure#obsValue;obsValue;Valor obtenido
+http://dd.eionet.europa.eu/vocabulary/uom/concentration/ug.m-3;ug.m-3;Microgramos por metro cúbico
+http://dd.eionet.europa.eu/vocabulary/uom/concentration/mg.m-3;mg.m-3;Miligramos por metro cúbico
+http://dbpedia.org/ontology/percentage;percentage;Porcentaje
+http://purl.org/iot/vocab/m3-lite#WattPerMeterSquare;WattPerMeterSquare;Vatios metro cuadrado
+http://purl.org/iot/vocab/m3-lite#Millibar;Millibar;Milibar
+http://purl.org/iot/vocab/m3-lite#KilometerPerHour;KilometerPerHour;Kilometro por hora
+http://euskadi.eus/def/public-sector/administration/poder-adjudicador;poder-adjudicador;Poder adjudicador
+http://euskadi.eus/def/public-sector/administration/codigo-contrato;codigo-contrato;Código contrato
+http://euskadi.eus/def/public-sector/administration/tipo-contrato;tipo-contrato;Tipo contrato
+http://euskadi.eus/def/public-sector/administration/ano-contrato;ano-contrato;Año contrato
+http://euskadi.eus/def/public-sector/administration/contrato-menor;contrato-menor;Contrato menor
+http://euskadi.eus/def/public-sector/administration/ambito;ambito;Ámbito
+http://euskadi.eus/def/public-sector/administration/tipo-administracion;tipo-administracion;Tipo administración
+http://euskadi.eus/def/public-sector/administration/entidad-impulsora;entidad-impulsora;Entidad impulsora
+http://euskadi.eus/def/public-sector/administration/organo-contratante;organo-contratante;Órgano contratante
+http://euskadi.eus/def/public-sector/administration/entidad-tramitadora;entidad-tramitadora;Entidad tramitadora
+http://euskadi.eus/def/public-sector/administration/mesa-de-contratacion;mesa-de-contratacion;Mesa de contratación
+http://euskadi.eus/def/public-sector/administration/objeto-del-contrato;objeto-contrato;Objeto del contrato
+http://euskadi.eus/def/public-sector/administration/cod-identificador-contrato;cod-identificador-contrato;Código identificador del contrato
+http://euskadi.eus/def/public-sector/administration/lugar-ejecucion;lugar-ejecucion;Lugar ejecución
+http://euskadi.eus/def/public-sector/administration/nuts;nuts;Nuts
+http://euskadi.eus/def/public-sector/administration/codigo-cpv;codigo-cpv;Código cpv
+http://euskadi.eus/def/public-sector/administration/contratacion-por-lotes;contratacion-por-lotes;Contratación por lotes
+http://euskadi.eus/def/public-sector/administration/contratacion-mixto;contratacion-mixto;Contratación mixto
+http://euskadi.eus/def/public-sector/administration/acuerdo-marco;acuerdo-marco;Acuerdo marco
+http://euskadi.eus/def/public-sector/administration/contrato-complementario;contrato-complementario;Contrato complementario
+http://euskadi.eus/def/public-sector/administration/publicidad;publicidad;Publicidad
+http://euskadi.eus/def/public-sector/administration/fecha-publicacion-en-el-DOUE;fecha-publicacion-en-el-DOUE;Fecha publicación en el DOUE
+http://euskadi.eus/def/public-sector/administration/fecha-publicacion-en-perfil-contratante;fecha-publicacion-en-perfil-contratante;Fecha publicación en perfil contratante
+http://euskadi.eus/def/public-sector/administration/fecha-adjudicacion;fecha-adjudicacion;Fecha adjudicacion
+http://euskadi.eus/def/public-sector/administration/tramitacion;tramitacion;Tramitación
+http://euskadi.eus/def/public-sector/administration/procedimiento-de-adjudicacion;procedimiento-de-adjudicacion;Procedimiento de adjudicación
+http://euskadi.eus/def/public-sector/administration/criterios-de-valoracion;criterios-de-valoracion;Criterios de valoración
+http://euskadi.eus/def/public-sector/administration/importe-licitacion-sin-IVA;importe-licitacion-sin-IVA;Importe licitación sin IVA
+http://euskadi.eus/def/public-sector/administration/importe-licitacion-con-IVA;importe-licitacion-con-IVA;Importe licitación con IVA
+http://euskadi.eus/def/public-sector/administration/IVA-importe-licitacion;IVA-importe-licitacion;IVA importe licitacion
+http://euskadi.eus/def/public-sector/administration/importe-de-adjudicacion-sin-IVA;importe-de-adjudicacion-sin-IVA;Importe de adjudicación sin IVA
+http://euskadi.eus/def/public-sector/administration/importe-de-adjudicacion-con-IVA;importe-de-adjudicacion-con-IVA;Importe de adjudicación con IVA
+http://euskadi.eus/def/public-sector/administration/IVA-importe-adjudicacion;IVA-importe-adjudicacion;IVA importe adjudicación
+http://euskadi.eus/def/public-sector/administration/plazo-ejecucion-meses;plazo-adjudicacion-meses;Plazo adjudicacion(meses)
+http://euskadi.eus/def/public-sector/administration/caracter-plurianual;caracter-plurianual;Carácter plurianual
+http://euskadi.eus/def/public-sector/administration/anualidad;anualidad;Anualidad
+http://euskadi.eus/def/public-sector/administration/adjudicatario;adjudicatario;Adjudicatario
+http://euskadi.eus/def/public-sector/administration/indicador-ingreso;indicador-ingreso;Indicador ingreso
+http://euskadi.eus/def/public-sector/administration/modificacion-objeto;modificacion-objeto;Modificación objeto
+http://euskadi.eus/def/public-sector/administration/continuidad-contrato;continuidad-contrato;Continuidad contrato
+http://euskadi.eus/def/public-sector/administration/fecha-modificacion;fecha-modificacion;Fecha modificación
+http://euskadi.eus/def/public-sector/administration/fecha-descarga;fecha-descarga;Fecha descarga
+http://euskadi.eus/def/public-sector/administration/cod-puesto;cod-puesto;Codigo puesto
+http://euskadi.eus/def/public-sector/administration/dotacion;dotacion;Dotación
+http://euskadi.eus/def/public-sector/administration/cod-departamento;cod-departamento;Código departamento
+http://euskadi.eus/def/public-sector/administration/centro-organico;centro-organico;Centro orgánico
+http://euskadi.eus/def/public-sector/administration/cod-centro-destino;cod-centro-destino;Codigo centro orgánico
+http://euskadi.eus/def/public-sector/administration/centro-destino;centro-destino;Centro destino
+http://euskadi.eus/def/public-sector/administration/categoria-retributiva;categoria-retributiva;Categoria retributiva
+http://euskadi.eus/def/public-sector/administration/perfil-linguistico;perfil-linguistico;Perfil lingüístico
+http://euskadi.eus/def/public-sector/administration/importe-retributivo;importe-retributivo;Importe retributivo
