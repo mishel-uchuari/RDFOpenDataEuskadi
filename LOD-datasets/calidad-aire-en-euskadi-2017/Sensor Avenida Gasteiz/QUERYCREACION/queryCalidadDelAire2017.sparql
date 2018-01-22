@@ -221,6 +221,6 @@ bind(iri(concat("http://es.euskadi.eus/def/environment/air-quality/meassurement/
   bind(iri("http://dd.eionet.europa.eu/vocabulary/uom/concentration/mg.m-3") as ?gmcubico)
   bind(iri("http://dd.eionet.europa.eu/vocabulary/uom/concentration/ug.m-3") as ?umcubico)
  
-  bind(iri("http://es.euskadi.eus/id/environment/air-quality/meassurement-station/C040") as ?nomEst)
+  bind(iri("http://es.euskadi.eus/id/environment/air-quality/meassurement-station/AV.-GASTEIZ") as ?nomEst)
 
 }
