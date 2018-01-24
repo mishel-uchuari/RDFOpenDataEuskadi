@@ -22,7 +22,7 @@ INSERT{
   dcterms:modified ?fechaActParseada; 
   }
 }WHERE{
-     service <http://lod.eurohelp.es:7200/rdf-bridge/1852505592392> {
+     service <http://lod.eurohelp.es:7200/rdf-bridge/2018799849637> {
      ?numRow a <urn:Row>;
      <urn:col:NomAp> ?NomAp;
      <urn:col:empleado> ?empleado;

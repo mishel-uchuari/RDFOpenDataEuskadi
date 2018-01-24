@@ -6,7 +6,7 @@ PREFIX dbpedia:<http://dbpedia.org/ontology/>
 PREFIX frapo:<http://purl.org/cerif/frapo/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 INSERT{
-  graph<http://es.euskadi.eus/graph/registro-de-contratos-del-sector-publico-de-euskadi>{
+graph<http://es.euskadi.eus/graph/registro-de-contratos-del-sector-publico-de-euskadi>{
  ?uriGeneral a frapo:EmploymentContract;
  rdfs:label ?labelElemento;
  pproc:formalizedDate ?fechaFormalizacionParseada;
@@ -45,23 +45,21 @@ INSERT{
  ?uriPlazoEjecucionMesesGen ?plazoEjecucion;
  ?uriCaracterPlurianualGen ?uriCaracterPlurianual;
  ?uriAnualidadGen ?uriAnualidad;
- ?uriAdjudicatarioGen ?uriAdjudicatario;
- ?uriIndicadorIngresoGen ?uriIndicadorIngreso;
+ ?uriAdjudicatarioGen ?uriAdjudicatario;   
  ?uriModificacionObjetoGen ?uriModificacionObjeto;
  ?uriContinuidadContratoGen ?uriContinuidadContrato;
  ?uriIdentContrGen ?uriCodIdenContr;
  pproc:ContractEconomicConditions ?importeDeAdjudicacion.
-	}
+  }
 }WHERE{
-  service <http://lod.eurohelp.es:7200/rdf-bridge/2047778454947> {
+    service <http://lod.eurohelp.es:7200/rdf-bridge/2330908749607> {
      ?numRow a <urn:Row>;
      <urn:col:EstadoContrato> ?estadoDeContrato;
      <urn:col:ContratoMenor> ?contratoMenor;
      <urn:col:ContratacionMixto> ?contratoMixto;
      <urn:col:Ambito> ?ambito;
      <urn:col:TipoContratoSinGuion> ?tipoContratoSinGuion;
-     <urn:col:TipoDeAdministracion> ?tipoAdministracion;
-     <urn:col:AnoDelContrato> ?anoContrato;
+	 <urn:col:AnoDelContrato> ?anoContrato;
      <urn:col:OrganoContratante> ?organoContratante;
      <urn:col:PoderAdjudicador> ?poderAdjudicador;
      <urn:col:EntidadImpulsora> ?entidadImpulsora;
@@ -76,7 +74,7 @@ INSERT{
      <urn:col:ContratacionPorLotes> ?contratPorLotes;
      <urn:col:ContratacionMixto> ?contratMixto;
      <urn:col:AcuerdoMarco> ?acuerdoMarco;
-     <urn:col:Anualidad> ?anualidad;
+	 <urn:col:Anualidad> ?anualidad;
      <urn:col:ContratoComplementario> ?contratoComplemen;
      <urn:col:Publicidad> ?publicidad;
      <urn:col:FechaPublicacionEnElDOUE> ?fechaPublicacionDoue;
@@ -84,16 +82,11 @@ INSERT{
      <urn:col:Tramitacion> ?tramitacion;
      <urn:col:ProcedimientoDeAdjudicacion> ?procedimiento;
      <urn:col:CriteriosDeValoracion> ?criteriosValoracion;
-     <urn:col:ImporteDeLicitacionSinIVA> ?importeLicitacionSinIVA;
+	 <urn:col:ImporteDeLicitacionSinIVA> ?importeLicitacionSinIVA;
      <urn:col:ImporteDeLicitacionConIVA> ?importeLicitacionConIVA;
-     <urn:col:IVADelImporteDeLicitacion> ?IVALicitacion;
-     <urn:col:ImporteDeAdjudicacionSinIVA> ?importeAdjSinIva;
-     <urn:col:IVADelImporteDeAdjudicacion> ?IVAImporteAdj;
-     <urn:col:PlazoDeEjecucionEnMeses> ?plazoEjecucion;
-     <urn:col:CaracterPlurianual> ?caracterPlurianual;
+   	 <urn:col:CaracterPlurianual> ?caracterPlurianual;
      <urn:col:RevisionDePreciosEstablecidos> ?revisionPreciosEstablecidos;
      <urn:col:FechaDeAdjudicacion> ?fechaAdjudicacion;
-     <urn:col:IndicadorDeIngreso> ?indicadorIngreso;
      <urn:col:ModificacionDelObjeto> ?modificacionDelObjeto;
      <urn:col:ContinuidadDelContrato> ?continuedadDelContrato;
      <urn:col:TitulodeContrato> ?titulo;
@@ -101,23 +94,20 @@ INSERT{
      <urn:col:Adjudicatario> ?adjudicatario;
      <urn:col:ImporteDeAdjudicacionConIVA> ?importeDeAdjudicacionConIVA;
      <urn:col:FechaDeFormalizacion> ?fechaFormalizacion;
-     
-}
-   
-  #Uri fecha
+     } 
+     #Uri fecha
   bind(spif:parseDate(?fechaFormalizacion, "dd/MM/yyyy") as ?fechaFormalizacionParseada)
   bind(spif:parseDate(?fechaPublicacionPerfilContratante, "dd/MM/yyyy") as ?fechaPubPerfilContParseada)
   bind(spif:parseDate(?fechaAdjudicacion, "dd/MM/yyyy") as ?fechaAdjudicacionParseada)
   bind(spif:parseDate(?fechaPublicacionDoue, "dd/MM/yyyy") as ?fechaPublicacionDOUEParseada)
-
+  
   #Uris general
   bind(iri(concat("http://es.euskadi.eus/id/public-sector/administration/contract/", spif:encodeURL(?tipoContrato), "-", spif:encodeURL(?adjudicatario), "-",  ?fechaFormalizacionParseada )) as ?uriGeneral)
  
   #Label
   bind(STRLANG(concat(spif:encodeURL(?tipoContrato), "-", spif:encodeURL(?adjudicatario), "-",  ?fechaFormalizacionParseada),"es") as ?labelElemento)
 
-	
-  #Uris objetos
+   #Uris objetos
   bind(STRLANG(?estadoDeContrato,"es") as ?uriEstadoContrato)
   bind(STRLANG(?titulo,"es") as ?uriDescription)
   bind(STRLANG(?tipoContratoSinGuion,"es") as ?uriTipoContrato)
@@ -145,7 +135,6 @@ INSERT{
   bind(STRLANG(?caracterPlurianual,"es") as ?uriCaracterPlurianual)
   bind(STRLANG(?anualidad,"es") as ?uriAnualidad)
   bind(STRLANG(?adjudicatario,"es") as ?uriAdjudicatario)
-  bind(STRLANG(?indicadorIngreso,"es") as ?uriIndicadorIngreso)
   bind(STRLANG(?modificacionDelObjeto,"es") as ?uriModificacionObjeto)
   bind(STRLANG(?continuedadDelContrato,"es") as ?uriContinuidadContrato)
   bind(STRLANG(?tipoAdministracion,"es") as ?uriTipoAdministracion)
@@ -229,10 +218,9 @@ INSERT{
   
   bind(iri("http://euskadi.eus/def/public-sector/administration/adjudicatario") as ?uriAdjudicatarioGen)
   
-  bind(iri("http://euskadi.eus/def/public-sector/administration/indicador-ingreso") as ?uriIndicadorIngresoGen)
 
   bind(iri("http://euskadi.eus/def/public-sector/administration/modificacion-objeto") as ?uriModificacionObjetoGen)
   
   bind(iri("http://euskadi.eus/def/public-sector/administration/continuidad-contrato") as ?uriContinuidadContratoGen)
-
+	
  }

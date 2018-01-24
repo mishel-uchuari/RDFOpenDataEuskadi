@@ -28,19 +28,6 @@
     "maxColumns": 0
   },
   {
-    "op": "core/text-transform",
-    "description": "Text transform on cells in column Id_Dpto using expression value.toNumber()",
-    "engineConfig": {
-      "mode": "row-based",
-      "facets": []
-    },
-    "columnName": "Id_Dpto",
-    "expression": "value.toNumber()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10
-  },
-  {
     "op": "core/column-removal",
     "description": "Remove column Departamento 1",
     "columnName": "Departamento 1"
@@ -309,45 +296,6 @@
     },
     "columnName": "Retribuciones",
     "expression": "grel:value.replace(\",\",\".\")",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10
-  },
-  {
-    "op": "core/text-transform",
-    "description": "Text transform on cells in column Retribuciones using expression value.toNumber()",
-    "engineConfig": {
-      "mode": "row-based",
-      "facets": []
-    },
-    "columnName": "Retribuciones",
-    "expression": "value.toNumber()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10
-  },
-  {
-    "op": "core/text-transform",
-    "description": "Text transform on cells in column Id_Organo using expression value.toNumber()",
-    "engineConfig": {
-      "mode": "row-based",
-      "facets": []
-    },
-    "columnName": "Id_Organo",
-    "expression": "value.toNumber()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10
-  },
-  {
-    "op": "core/text-transform",
-    "description": "Text transform on cells in column Id_Centro_Organico using expression value.toNumber()",
-    "engineConfig": {
-      "mode": "row-based",
-      "facets": []
-    },
-    "columnName": "Id_Centro_Organico",
-    "expression": "value.toNumber()",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
