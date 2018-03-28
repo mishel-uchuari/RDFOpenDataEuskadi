@@ -29,7 +29,7 @@ WHERE{
      <urn:col:Latitude> ?latitud;
      <urn:col:Longitude> ?longitud;
 
-     bind(iri(concat("http://es.euskadi.eus/id/environment/air-quality/meassurement-station/", spif:encodeURL(?nombreURL))) as ?uriEstacion)
+     bind(iri(concat("http://euskadi.eus/id/environment/air-quality/meassurement-station/", spif:encodeURL(?nombreURL))) as ?uriEstacion)
      bind(STRLANG(?nombreEstacion,"es") as ?nomEsp)
      bind(STRLANG(?direccion,"es") as ?direccionEsp)
      bind(STRLANG(?provincia,"es") as ?provinciaEsp)
