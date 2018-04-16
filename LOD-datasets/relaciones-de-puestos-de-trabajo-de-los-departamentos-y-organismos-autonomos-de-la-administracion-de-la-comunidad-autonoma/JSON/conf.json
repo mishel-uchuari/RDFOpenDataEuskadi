@@ -522,5 +522,291 @@
     "description": "Rename column Centro Orgánico to CentroOrganico",
     "oldColumnName": "Centro Orgánico",
     "newColumnName": "CentroOrganico"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Departamento using expression value.toLowercase()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Departamento",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression value.toLowercase()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroOrganico using expression value.toLowercase()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroOrganico",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Puesto using expression grel:value.replace(\"/\", \"-\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "Puesto",
+    "expression": "grel:value.replace(\"/\", \"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"/[^0-9A-Za-z]/\",\"-\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"/[^0-9A-Za-z]/\",\"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"ú\",\"u\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"ú\",\"u\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestinoSinGuion using expression grel:value.replace(\"ú\",\"u\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestinoSinGuion",
+    "expression": "grel:value.replace(\"ú\",\"u\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestino using expression grel:value.replace(\"ú\",\"u\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestino",
+    "expression": "grel:value.replace(\"ú\",\"u\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestino using expression grel:value.replace(\"á\",\"a\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestino",
+    "expression": "grel:value.replace(\"á\",\"a\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestino using expression grel:value.replace(\"é\",\"e\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestino",
+    "expression": "grel:value.replace(\"é\",\"e\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestino using expression grel:value.replace(\"í\",\"i\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestino",
+    "expression": "grel:value.replace(\"í\",\"i\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestino using expression grel:value.replace(\"ó\",\"o\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestino",
+    "expression": "grel:value.replace(\"ó\",\"o\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestino using expression grel:value.replace(\"ú\",\"u\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestino",
+    "expression": "grel:value.replace(\"ú\",\"u\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"á\",\"a\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"á\",\"a\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"é\",\"e\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"é\",\"e\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"í\",\"i\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"í\",\"i\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"ó\",\"o\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"ó\",\"o\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"ú\",\"u\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"ú\",\"u\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"/\", \"-\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"/\", \"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestino using expression grel:value.replace(\"(\", \"-\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestino",
+    "expression": "grel:value.replace(\"(\", \"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column CentroDestino using expression grel:value.replace(\")\", \"-\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "CentroDestino",
+    "expression": "grel:value.replace(\")\", \"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DepartamentoConGuion using expression grel:value.replace(\"ü\", \"u\")",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "DepartamentoConGuion",
+    "expression": "grel:value.replace(\"ü\", \"u\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]
