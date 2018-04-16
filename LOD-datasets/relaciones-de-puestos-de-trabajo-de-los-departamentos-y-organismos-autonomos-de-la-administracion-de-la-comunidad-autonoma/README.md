@@ -1,1 +1,1 @@
-url: http://opendata.euskadi.eus/catalogo/-/relaciones-de-puestos-de-trabajo-de-los-departamentos-y-organismos-autonomos-de-la-administracion-de-la-comunidad-autonoma/
+url: http://opendata.euskadi.eus/catalogo/-/relacion-de-puestos-de-trabajo-rpt-de-los-departamentos-y-organismos-autonomos-de-la-administracion-de-la-comunidad-autonoma/ 
